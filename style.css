@@ -1,0 +1,17 @@
+h1{text-align: center ;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+text-indent: 50px;}
+h1{font-size: 30px;}
+h1{font-weight: bolder ;}
+h1{color: darkred ;}
+.lw1{text-align: left ;}
+.lw1 { font-size: 20px; }
+.lw2 {text-align: right ;}
+.lw2 { font-size: 20px; }
+.ar{width: 500px ;}
+.ar{height: 10px; }
+.rArr{font-size: 50px;
+color: darkred ;
+text-indent: 300px;}
+.avtor {font-style: italic ; }
+.avtor {font-size: 20px; }
